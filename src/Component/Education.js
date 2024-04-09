@@ -71,7 +71,7 @@ export default function Education() {
       </tbody>
     </table> : ""}<hr />
     <Link to="/" className="btn btn-warning btn-lg">Previous</Link>&nbsp;&nbsp;
-    {educationData != undefined ? <Link to="/experince" className="btn btn-warning btn-lg">Next</Link> : ""}
+    {educationData != undefined ? <Link to="/experience" className="btn btn-warning btn-lg">Next</Link> : ""}
 
   </>
 }

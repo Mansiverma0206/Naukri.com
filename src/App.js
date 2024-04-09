@@ -29,7 +29,7 @@ export default function App()
     <Routes>
       <Route path="/" element={<Personal/>}/>
       <Route path="/education" element={<Education/>}/>
-      <Route path="/experince" element={<Experience/>}/>
+      <Route path="/experience" element={<Experience/>}/>
       <Route path="/finalData" element={<FinalData/>}/>
     </Routes>
    </div>
